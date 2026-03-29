@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "rgr-editor-backend",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6db69f07-45b3-47a5-90bd-5da57e24c66f",
+			"database_name": "grr-temp"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
